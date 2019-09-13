@@ -4,7 +4,7 @@ title:  "tugas2"
 date:   2019-09-10 23:40:09 +0700
 categories: jekyll update
 ---
-Jancok
+hmm
 
 {% highlight ruby %}
 <?php 
