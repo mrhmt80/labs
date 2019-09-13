@@ -22,8 +22,8 @@ title: faridlabs
 email: mrhmt81@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   you can call me farid 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "faridlabs" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/faridlabs" # the subpath of your site, e.g. /blog
+url: "mrhmt80.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 instagram_username: mrhmt81
