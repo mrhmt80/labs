@@ -5,9 +5,9 @@ title: Materi
 
 <ul>
 	
-{% for materi in site.posts %}
+{% for materi in site.categories.materi %}
 	<li>
-		<a href="">{{materi.title}}</a>
+		<a href=" {{ materi.url | remove_first:'/' }}">{{materi.title}}</a>
 		<p>{{materi.meta}}</p>
 	</li>
 {% endfor %}
