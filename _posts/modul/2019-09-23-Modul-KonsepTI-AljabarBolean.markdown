@@ -13,4 +13,10 @@ categories: materi MI
 
 </div>
 
+{% highlight ruby %}
+  def foo
+    puts 'foo'
+  end
+{% endhighlight %}
+
 
