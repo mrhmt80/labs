@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-made from jekyll
+Saya adalah mahasiswa pascasarjana di salah satu Politeknik daerah Jawa Timur
