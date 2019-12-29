@@ -28,13 +28,20 @@ twitter_username: fariedrahmat
 github_username:  mrhmt80
 instagram_username: fariedrahmat
 
-gems: [jekyll-paginate]
-paginate: 3
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 7
+paginate_path: "pages/blog-:num"
+
+# Pagination Settings
 
 # Exclude from processing.
 # The following items will not be processed, by default.
